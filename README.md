@@ -30,6 +30,25 @@ Developed a custom ROS 2 wrapper based on the Python CANopen library, enabling c
 - Wrote software in MATLAB/C++ to test optimization algorithms based on Lyapunov theory for analog circuit design process
 
 
-## Projects
-- hola
+# Projects
 
+### Reynold-Rules applied to Multi-robot Systems
+
+![MRS](/assets/images/mrs.gif)
+[Results](https://drive.google.com/file/d/1LlZJhfM6QFnHxOkOqBDisdPgV0F5_NpO/view?usp=sharing)
+
+
+<img src="/assets/images/mrs.gif" alt="Gif img" width="100">
+
+
+### Multi-Object Tracking using Kalman Filter on Event-Based Data
+![Gif img](/assets/images/tux.png)
+[Paper]()
+
+### Turtlebot Frontier-based Exploration
+![Gif img](/assets/images/tux.png)
+[Paper]()
+
+### TurtleBot Graph SLAM using ArUco features
+![Gif img](/assets/images/tux.png)
+[Paper]()
