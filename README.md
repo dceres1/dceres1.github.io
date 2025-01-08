@@ -1,7 +1,13 @@
 # Robotics Engineer
 
 # Education
-Mechatronics Engineer
+Universitat de Girona (UdG) & University of Zagreb (UNIZG) Spain & Croatia
+Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)
+
+Benemérita Universidad Autónoma de Puebla (BUAP) Mexico
+Bachelor in Mechatronics Engineering
+
+[Full Resume](https://drive.google.com/file/d/1C5bZnKnPD9FsHRPaAkDfN3niQFuRmSAz/view?usp=sharing)
 
 # Work Experience
 ### Internship at [Paltech GmbH](https://www.linkedin.com/company/paltech-gmbh/) 
@@ -31,6 +37,11 @@ Developed a custom ROS 2 wrapper based on the Python CANopen library, enabling c
 
 
 # Projects
+
+### Stereo Visual Odometry on the Kitti Dataset
+Developed a Stereo Visual Odometry system leveraging a 3D-2D pose estimation pipeline to estimate vehicle motion from the KITTI dataset. The project involved keypoint tracking, disparity calculation, triangulation of 3D points, and pose estimation to achieve accurate trajectory reconstruction.
+
+<img src="/assets/images/vo-kitti.gif" alt="mrs" width="500">
 
 ### Reynold-Rules applied to Multi-robot Systems
 Implemented algorithms based on Reynolds' flocking rules (cohesion, separation, and alignment) to control robots in simulation. The project involved developing and testing these algorithms in the Stage 2D simulator within the ROS framework, demonstrating swarm behaviors and exploring extensions to the basic rules for enhanced functionality.
@@ -65,4 +76,9 @@ Implementation of a pick, transport and place task for a TurtleBot differential 
 
 <img src="/assets/images/intervention.gif" alt="intervention" width="500">
 
-[Project Report](https://drive.google.com/file/d/1ktHGy1vNF2N_mdxttcLk1HSbEDLfkhq4/view?usp=sharing), [Video Simulation](https://youtu.be/_NbstjwCjNk), [Video Real bot](https://youtu.be/EU9jlnb_kf8)
+[Project Report](https://drive.google.com/file/d/1ktHGy1vNF2N_mdxttcLk1HSbEDLfkhq4/view?usp=sharing), [Video Simulation](https://youtu.be/_NbstjwCjNk), [Video Real robot](https://youtu.be/EU9jlnb_kf8)
+
+### Other projects
+I've also worked on exciting projects beyond robotics, such as designing a low-cost myoelectric arm prosthesis with advanced sensor integration, developing a large-format 3D printer with over 200 custom components, and creating enclosures for medical devices like ventilators and vital signs monitors. If you're interested, I invite you to take a look at my portfolio video to explore these projects in more detail!
+
+[Portfolio Video](https://www.youtube.com/watch?v=wTx1mI57Y4M)

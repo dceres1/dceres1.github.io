@@ -1,5 +1,5 @@
-title: David Ceres
-# logo: /assets/img/hola.png
-# description: text below image
+title: David Ceres Arroyo
+logo: /assets/img/david.jpg
+description: I am an Erasmus Mundus Scholar and Master's student in Intelligent Field Robotic Systems (IFRoS). This joint master’s program, taught at Universitat de Girona, Spain, and the University of Zagreb, Croatia, focuses on the technologies behind intelligent mobile robots. I am passionate about advancing localization algorithms such as SLAM and visual odometry, applying machine learning to robotic perception, and developing planning algorithms for autonomous systems. My goal is to contribute to the future of autonomous robots in real-world applications.
 # show_downloads: false
 theme: jekyll-theme-minimal
