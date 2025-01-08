@@ -4,11 +4,11 @@ Hello! Welcome to my Portfolio.
 I am an Erasmus Mundus Scholar and Master's student in Intelligent Field Robotic Systems (IFRoS). This joint master’s program, taught at Universitat de Girona, Spain, and the University of Zagreb, Croatia, focuses on the technologies behind intelligent mobile robots. I am passionate about localization algorithms, applying machine learning to robotic perception, and developing planning algorithms for autonomous systems. My goal is to contribute to the future of autonomous robots in real-world applications.
 
 # Education
-Universitat de Girona (UdG) & University of Zagreb (UNIZG) Spain & Croatia
-Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)
+Universitat de Girona (UdG) & University of Zagreb (UNIZG) Spain & Croatia  
+*Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)*
 
-Benemérita Universidad Autónoma de Puebla (BUAP) Mexico
-Bachelor in Mechatronics Engineering
+Benemérita Universidad Autónoma de Puebla (BUAP) Mexico     
+*Bachelor in Mechatronics Engineering*
 
 [Full Resume](https://drive.google.com/file/d/1C5bZnKnPD9FsHRPaAkDfN3niQFuRmSAz/view?usp=sharing)
 
@@ -93,5 +93,5 @@ I've also worked on exciting projects beyond robotics, such as designing a low-c
 ![2](/assets/images/2.jpg)
 ![3](/assets/images/3.jpeg)
 ![4](/assets/images/4.jpg)
-![5](/assets/images/5.jpg)
+![5](/assets/images/ifros-team.jpg)
 ![6](/assets/images/6.jpg)
