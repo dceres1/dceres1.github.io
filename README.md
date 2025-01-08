@@ -1,4 +1,7 @@
 # Robotics Engineer
+Hello! Welcome to my Portfolio.
+
+I am an Erasmus Mundus Scholar and Master's student in Intelligent Field Robotic Systems (IFRoS). This joint master’s program, taught at Universitat de Girona, Spain, and the University of Zagreb, Croatia, focuses on the technologies behind intelligent mobile robots. I am passionate about localization algorithms, applying machine learning to robotic perception, and developing planning algorithms for autonomous systems. My goal is to contribute to the future of autonomous robots in real-world applications.
 
 # Education
 Universitat de Girona (UdG) & University of Zagreb (UNIZG) Spain & Croatia
@@ -81,4 +84,14 @@ Implementation of a pick, transport and place task for a TurtleBot differential 
 ### Other projects
 I've also worked on exciting projects beyond robotics, such as designing a low-cost myoelectric arm prosthesis with advanced sensor integration, developing a large-format 3D printer with over 200 custom components, and creating enclosures for medical devices like ventilators and vital signs monitors. If you're interested, I invite you to take a look at my portfolio video to explore these projects in more detail!
 
+<img src="/assets/images/old-projects.gif" alt="old-projects" width="500">
+
 [Portfolio Video](https://www.youtube.com/watch?v=wTx1mI57Y4M)
+
+# Gallery
+![1](/assets/images/1.jpeg)
+![2](/assets/images/2.jpg)
+![3](/assets/images/3.jpeg)
+![4](/assets/images/4.jpg)
+![5](/assets/images/5.jpg)
+![6](/assets/images/6.jpg)
